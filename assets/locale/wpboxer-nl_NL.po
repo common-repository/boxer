@@ -1,0 +1,704 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Boxer Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-09 16:36+0100\n"
+"PO-Revision-Date: 2012-08-09 16:43+0100\n"
+"Last-Translator: M. Boomaars <info@codingourweb.com>\n"
+"Language-Team: CodingOurWeb\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wpboxerpro.php:110
+msgid "Enable Automatic Paragraphs"
+msgstr "Schakel automatische paragrafen in (autop)"
+
+#: wpboxerpro.php:113
+msgid ""
+"Wordpress automatically inserts paragraphs for you to separate content "
+"breaks within a post or page. De-activate this option if you do not like "
+"this feature of WP."
+msgstr ""
+"Wordpress voegt soms automatisch paragrafen toe aan teksten. Schakelt deze "
+"optie uit als je dat niet wilt."
+
+#: wpboxerpro.php:116
+msgid "Do not index individual content block posts"
+msgstr "Indexeer geen afzonderlijke content blocks"
+
+#: wpboxerpro.php:119
+msgid ""
+"If you want to disable the indexing of individual content block posts, "
+"activate this option"
+msgstr ""
+"Als je het individueel indexeren van content blocks uit wilt schakelen, "
+"schakel deze optie dan in"
+
+#: wpboxerpro.php:122
+msgid "Enable Twitter Bootstrap"
+msgstr "Activeer Twitter Bootstrap"
+
+#: wpboxerpro.php:125
+msgid ""
+"Sometimes Twitter Bootstrap can interfere with other plugins or themes. "
+"Deactivate this option if that is the case"
+msgstr ""
+"Soms kan Twitter Bootstrap andere plugins in de weg zitten. Als dit het "
+"geval is, kun je Bootstrap hier uitschakelen."
+
+#: wpboxerpro.php:128
+msgid "Disable TimThumb Globally"
+msgstr "Schakel TimThumb uit"
+
+#: wpboxerpro.php:131
+msgid ""
+"If you want to disable the use of TimThumb globally, activate this option"
+msgstr ""
+"Als je TimThumb in het geheel niet wenst te gebruiken, activeer je deze optie"
+
+#: wpboxerpro.php:134
+msgid "Show Tooltips in Content Block Options meta box"
+msgstr "Toon tips in de Content Block Opties metabox"
+
+#: wpboxerpro.php:137
+msgid ""
+"If you want to disable the tooltips within the Content Block Options meta "
+"box, activate this option"
+msgstr ""
+"Als je de tooltipteksten wilt uitschakelen binnen de Content Block Opties "
+"metabox, activeer je deze optie"
+
+#: wpboxerpro.php:140
+msgid "Enable Edit Links In Content Blocks"
+msgstr "Schakel Bewerk snelkoppelingen in in de content blocks"
+
+#: wpboxerpro.php:143
+msgid ""
+"By default content blocks will not display edit links when logged in. "
+"Activate this option if you want to display them."
+msgstr ""
+"Standaard tonen content blocks geen Bewerk snelkoppelingen indien ingelogd. "
+"Activeer deze optie als je dat wel wilt."
+
+#: wpboxerpro.php:146
+msgid "Excerpt Length"
+msgstr "Uittreksel lengte"
+
+#: wpboxerpro.php:151
+msgid "Specify how many words should be included in the content block excerpt"
+msgstr "Geef aan hoeveel woorden een uittreksel maximaal mag bevatten"
+
+#: wpboxerpro.php:174 wpboxerpro.php:1207
+msgid "Block Group"
+msgstr "Block Groep"
+
+#: wpboxerpro.php:177
+msgid "Content Block"
+msgstr "Content Block"
+
+#: wpboxerpro.php:271
+msgid "Block Type"
+msgstr "Content block type"
+
+#: wpboxerpro.php:277
+msgid "Block Index"
+msgstr "Content block index"
+
+#: wpboxerpro.php:278
+msgid ""
+"Specify the content block index. Indexes are really important as they "
+"determine the order in which content blocks are displayed."
+msgstr ""
+"Specificeer het volgnummer van deze content block. Volgnummers zijn erg "
+"belangrijk want ze bepalen de volgorde waarin boxen worden weergegeven."
+
+#: wpboxerpro.php:288
+msgid "Block Width"
+msgstr "Content block breedte"
+
+#: wpboxerpro.php:289
+msgid ""
+"Select a block width. Always make sure the last block in each row ends with "
+"<strong>_last</strong> to avoid rendering issues!"
+msgstr ""
+"Selecteer een breedte voor de content block. Zorg altijd dat de laatste box "
+"van een rij eindigt op <strong>_last</strong> om weergaveproblemen te "
+"voorkomen!"
+
+#: wpboxerpro.php:300
+msgid "Block Height"
+msgstr "Content block hoogte"
+
+#: wpboxerpro.php:301
+msgid "Specify the block height. Leave empty if you want it to be dynamic."
+msgstr ""
+"Specificeer de hoogte van de content block. Laat leeg als je deze "
+"automatisch wilt laten bepalen"
+
+#: wpboxerpro.php:310 wpboxerpro.php:456
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: wpboxerpro.php:318
+msgid "Background Color Override"
+msgstr "Achtergrondkleur opheffing"
+
+#: wpboxerpro.php:319
+msgid ""
+"Check this option if you do not want to apply the bgcolor to the content "
+"block but use it for something else"
+msgstr ""
+"Selecteer deze optie als je de achtergrondkleur niet wilt toepassen op het "
+"content block, maar wilt gebruiken voor iets anders"
+
+#: wpboxerpro.php:325
+msgid "Block CSS"
+msgstr "Content Block CSS"
+
+#: wpboxerpro.php:326
+msgid ""
+"Specify extra CSS classes you would like applied to the block. You can "
+"select multiple classes, but some may overrule others"
+msgstr ""
+"Selecteer extra CSS klassen die je wilt toepassen op het content block. Je "
+"kan er meerdere selecteren, maar sommige kunnen anderen ongedaan maken"
+
+#: wpboxerpro.php:328 wpboxerpro.php:403 wpboxerpro.php:493 wpboxerpro.php:584
+msgid "Choose one or more CSS classes..."
+msgstr "Selecteer een of meer CSS klassen..."
+
+#: wpboxerpro.php:339
+msgid "Import/Export content block style from/to file"
+msgstr "Importeer/exporteer content block stijl van/naar bestand"
+
+#: wpboxerpro.php:344
+msgid "Image Height"
+msgstr "Hoogte"
+
+#: wpboxerpro.php:345
+msgid ""
+"Specify the height of the image. When a height has been specified, Timthumb "
+"will be used for resizing purposes, unless the <strong>Use TimThumb</strong> "
+"option has been deselected"
+msgstr ""
+"Specificeer de hoogte van de afbeelding. Als een hoogte gedefinieerd is, zal "
+"TimThumb gebruikt worden tenzij de <strong>Gebruik TimThumb</strong> optie "
+"uitgeschakeld is"
+
+#: wpboxerpro.php:354
+msgid "Image Width"
+msgstr "Breedte"
+
+#: wpboxerpro.php:355
+msgid ""
+"Specify the width of the image. When a width has been specified, Timthumb "
+"will be used for resizing purposes, unless the <strong>Use TimThumb</strong> "
+"option has been deselected"
+msgstr ""
+"Specificeer de breedte van de afbeelding. Als een breedte gedefinieerd is, "
+"zal TimThumb gebruikt worden tenzij de <strong>Gebruik TimThumb</strong> "
+"optie uitgeschakeld is"
+
+#: wpboxerpro.php:364 wpboxerpro.php:473
+msgid "Link"
+msgstr "Koppeling"
+
+#: wpboxerpro.php:365
+msgid ""
+"Specify a destination for the image link. You can also use the value of any "
+"custom field by using the [[meta_key]] notation. When prepended with a \">\" "
+"sign, a lightbox will be used"
+msgstr ""
+"Geef de locatie op waar de afbeelding naar moet verwijzen. Je kunt ook de "
+"waarde van vrije velden gebruiken met behulp van de [[meta_key]] notatie. "
+"Wanneer de link wordt vooraf gegaan door een \">\" teken, zal een lightbox "
+"gebruikt worden"
+
+#: wpboxerpro.php:373
+msgid "Use TimThumb"
+msgstr "Gebruik TimThumb"
+
+#: wpboxerpro.php:374
+msgid ""
+"Specify whether you would like to resize the images using TimThumb. Only "
+"applies when images and/or width are set."
+msgstr ""
+"Geef aan of je de grootte van afbeeldingen wilt laten aanpassen  door "
+"TimThumb. Geldt alleen wanneer afbeelding dimensies zijn opgegeven"
+
+#: wpboxerpro.php:380
+msgid "TimThumb Cropping Location"
+msgstr "TimThumb Crop Locatie"
+
+#: wpboxerpro.php:381
+msgid ""
+"Select the TimThumb cropping location. Only applies when images and/or width "
+"are set."
+msgstr ""
+"Selecteer de cropping locatie voor TimThumb. Geldt alleen wanneer "
+"afbeeldingsdimensies zijn opgegeven"
+
+#: wpboxerpro.php:389
+msgid "TimThumb Filters"
+msgstr "TimThumb filters"
+
+#: wpboxerpro.php:390
+msgid ""
+"Specify extra filters for the image.  Only applies when images and/or width "
+"are set."
+msgstr ""
+"Specificeer extra filters voor de afbeelding. Geldt alleen wanneer "
+"afbeeldingsdimensies zijn opgegeven"
+
+#: wpboxerpro.php:392
+msgid "Choose one or more filters..."
+msgstr "Kies één of meer filters..."
+
+#: wpboxerpro.php:400
+msgid "Image CSS"
+msgstr "Afbeelding CSS"
+
+#: wpboxerpro.php:401
+msgid ""
+"Specify extra CSS classes you would like applied to the block image. You can "
+"select multiple classes, but some may overrule others"
+msgstr ""
+"Selecteer extra CSS klassen die je wilt toepassen op de afbeelding in het "
+"content block. Je kan er meerdere selecteren, maar sommige kunnen anderen "
+"ongedaan maken"
+
+#: wpboxerpro.php:416 wpboxerpro.php:597
+msgid "Show"
+msgstr "Toon"
+
+#: wpboxerpro.php:417
+msgid "Uncheck this option if you do not want to display the header"
+msgstr "Deselecteer deze optie als je geen header weer wilt geven"
+
+#: wpboxerpro.php:423 wpboxerpro.php:514
+msgid "Font Family"
+msgstr "Lettertype"
+
+#: wpboxerpro.php:431 wpboxerpro.php:522
+msgid "Font Size"
+msgstr "Lettergrootte"
+
+#: wpboxerpro.php:444 wpboxerpro.php:535
+msgid "Line Height"
+msgstr "Regelafstand"
+
+#: wpboxerpro.php:463 wpboxerpro.php:548
+msgid "Color"
+msgstr "Kleur"
+
+#: wpboxerpro.php:474
+msgid ""
+"Specify a destination for the block heading. You can also use the value of "
+"any custom field by using the <strong>[[meta_key]]</strong> notation. When "
+"prepended with a \">\" sign, a lightbox will be used"
+msgstr ""
+"Geef de locatie op waar de titel naar moet verwijzen. Je kunt ook de waarde "
+"van vrije velden gebruiken met behulp van de [[meta_key]] notatie. Wanneer "
+"de link vooraf wordt gegaan door een \">\" teken, zal een lightbox gebruikt "
+"worden"
+
+#: wpboxerpro.php:480 wpboxerpro.php:558
+msgid "Alignment"
+msgstr "Uitlijning"
+
+#: wpboxerpro.php:490
+msgid "Heading CSS"
+msgstr "Titel CSS"
+
+#: wpboxerpro.php:491
+msgid ""
+"Specify extra CSS classes you would like applied to the block heading. You "
+"can select multiple classes, but some may overrule others"
+msgstr ""
+"Selecteer extra CSS klassen die je wilt toepassen op de titel van het "
+"content block. Je kan er meerdere selecteren, maar sommige kunnen anderen "
+"ongedaan maken"
+
+#: wpboxerpro.php:506
+msgid "Column Count"
+msgstr "Aantal Kolommen"
+
+#: wpboxerpro.php:568
+msgid "Links"
+msgstr "Snelkoppelingen"
+
+#: wpboxerpro.php:574
+msgid "Excerpt"
+msgstr "Uittreksel"
+
+#: wpboxerpro.php:575
+msgid ""
+"Specify whether you would like display only the excerpt in stead of the "
+"entire content. The excerpt length can be set <a href=\"options-general.php?"
+"page=wpbloxx.php\">here</a>"
+msgstr ""
+"Geef aan of je alleen een uittreksel wilt weergeven in plaats van de gehele "
+"inhoud. De lengte van het uittreksel kan <a href=\"options-general.php?"
+"page=wpboxerpro.php\">hier</a> opgegeven worden"
+
+#: wpboxerpro.php:581
+msgid "Content CSS"
+msgstr "Content CSS"
+
+#: wpboxerpro.php:582
+msgid ""
+"Specify extra CSS classes you would like applied to the block content. You "
+"can select multiple classes, but some may overrule others"
+msgstr ""
+"Selecteer extra CSS klassen die je wilt toepassen op de inhoud  van het "
+"content block. Je kan er meerdere selecteren, maar sommige kunnen anderen "
+"ongedaan maken"
+
+#: wpboxerpro.php:598
+msgid "Check this option if you would like display a footer"
+msgstr "Selecteer deze optie als je een footer wilt weergeven"
+
+#: wpboxerpro.php:641 wpboxerpro.php:646
+msgid "Content Block Options"
+msgstr "Content Block Opties"
+
+#: wpboxerpro.php:963
+msgid "WP Boxer Pro"
+msgstr "WP Boxer Pro"
+
+#: wpboxerpro.php:992
+msgid "Loading..."
+msgstr "Laden..."
+
+#: wpboxerpro.php:1027
+msgid "No old boxes were found during the upgrade process."
+msgstr "Tijdens de upgrade werden geen oude boxen aangetroffen."
+
+#: wpboxerpro.php:1054
+#, php-format
+msgid "Box ID%d: upgraded OK.<br>"
+msgstr "Box ID%d bijgewerkt.<br>"
+
+#: wpboxerpro.php:1057
+msgid "Something went wrong during the upgrade!"
+msgstr "Er ging iets mis tijdens de upgrade!"
+
+#: wpboxerpro.php:1157
+msgid "Duplicate this block"
+msgstr "Dupliceer deze content block"
+
+#: wpboxerpro.php:1157
+msgid "Duplicate"
+msgstr "Dupliceer"
+
+#: wpboxerpro.php:1171 wpboxerpro.php:1209
+msgid "Type"
+msgstr "Type"
+
+#: wpboxerpro.php:1172 wpboxerpro.php:1210
+msgid "Index"
+msgstr "Index"
+
+#: wpboxerpro.php:1206
+msgid "ID"
+msgstr "ID"
+
+#: wpboxerpro.php:1208
+msgid "Width"
+msgstr "Breedte"
+
+#: wpboxerpro.php:1211
+msgid "Thumbnail"
+msgstr "Miniatuur"
+
+#: wpboxerpro.php:1413 wpboxerpro.php:1805
+msgid "<p class=\"error\">Please specify a block group</p>"
+msgstr "<p class=\"error\">Specificeer een Block Group a.u.b.</p>"
+
+#: wpboxerpro.php:1678
+msgid "Edit"
+msgstr "Bewerken"
+
+#: wpboxerpro.php:1706
+msgid "Read More"
+msgstr "Lees Meer"
+
+#: wpboxerpro.php:1747
+msgid ""
+"<div class=\"navigation error\">If you want to paginate the results, the "
+"<code>count</code> parameter is required.</div>"
+msgstr ""
+"<div class=\"navigation error\">Als je de resultaten wenst te pagineren, is "
+"de count parameter een vereiste.</div>"
+
+#: wpboxerpro.php:1754
+msgid ""
+"<div class=\"navigation\">Download and activate <a href=\"http://wordpress."
+"org/extend/plugins/wp-pagenavi/\">wp-pagenavi</a> to enable pagination.</div>"
+msgstr ""
+"<div class=\"navigation\">Download and activeer <a href=\"http://wordpress."
+"org/extend/plugins/wp-pagenavi/\">wp-pagenavi</a> om paginering in te "
+"schakelen.</div>"
+
+#: wpboxerpro.php:1758 wpboxerpro.php:1891
+#, php-format
+msgid ""
+"<p class=\"error\">Please make sure at least one active block uses block "
+"group <strong>%s</strong> or adjust your shortcode parameters.</p>"
+msgstr ""
+"<p class=\"error\">Specificeer ten minste één content block voor block group "
+"<strong>%s</strong> of pas de parameters aan.</p>"
+
+#: framework/cow_plugin_framework.php:204
+msgid "Nothing found"
+msgstr "Niets gevonden"
+
+#: framework/cow_plugin_framework.php:205
+msgid "Nothing found in Trash"
+msgstr "Niets gevonden in de prullenbak"
+
+#: framework/cow_plugin_framework.php:236
+msgid "Search "
+msgstr "Zoeken"
+
+#: framework/cow_plugin_framework.php:237
+msgid "All "
+msgstr "Alles"
+
+#: framework/cow_plugin_framework.php:238
+#: framework/cow_plugin_framework.php:239
+msgid "Parent "
+msgstr "Ouder"
+
+#: framework/cow_plugin_framework.php:240
+msgid "Edit "
+msgstr "Bewerken"
+
+#: framework/cow_plugin_framework.php:241
+msgid "Update "
+msgstr "Bijwerken"
+
+#: framework/cow_plugin_framework.php:242
+msgid "Add New "
+msgstr "Toevoegen"
+
+#: framework/cow_plugin_framework.php:243
+msgid "New "
+msgstr "Nieuw"
+
+#: framework/functions.php:26
+msgid ""
+"Sorry, this box couldn't be duplicated because it could not be found in the "
+"database, check for this ID: "
+msgstr ""
+"Sorry, deze box kan niet gedupliceerd worden omdat ze niet werd aangetroffen "
+"in de database. Controleer deze ID:"
+
+#: includes/functions.php:33
+msgid ""
+"Sorry, this block couldn't be duplicated because it could not be found in "
+"the database, check for this ID: "
+msgstr ""
+"Sorry, deze content block kan niet gedupliceerd worden omdat ze niet werd "
+"aangetroffen in de database. Controleer deze ID:"
+
+#: includes/functions.php:64
+msgid " (Copy)"
+msgstr "(Kopieer)"
+
+#: views/block_options.php:30
+msgid "Choose a Mask:"
+msgstr "Selecteer een masker"
+
+#: views/block_options.php:34
+msgid "Apply"
+msgstr "Toepassen"
+
+#: views/block_options.php:36
+msgid "Apply the selected block mask to the current content block"
+msgstr "Pas het geselecteerde masker toe op het huidige content block"
+
+#: views/block_options.php:42
+msgid "Mask name:"
+msgstr "Naam masker:"
+
+#: views/block_options.php:46
+msgid "Save"
+msgstr "Opslaan"
+
+#: views/block_options.php:48
+msgid "Store the settings of the current content block into a block mask"
+msgstr "Sla de opties van de huidige content block op in een masker"
+
+#: views/block_options.php:70
+msgid "Import"
+msgstr "Importeren"
+
+#: views/block_options.php:266
+msgid "Add Link"
+msgstr "Koppeling Toevoegen"
+
+#: views/block_options.php:306
+#, php-format
+msgid "Link %1$s"
+msgstr "Koppeling %1$s"
+
+#: views/block_options.php:308
+msgid "Edit Menu Item"
+msgstr "Bewerk Menu Item"
+
+#: views/block_options.php:318
+msgid "Link URL"
+msgstr "Koppeling URL"
+
+#: views/block_options.php:325
+msgid "Link Target"
+msgstr "Koppelingtekst"
+
+#: views/block_options.php:336
+msgid "Link Text"
+msgstr "Koppeling Tekst"
+
+#: views/block_options.php:343
+msgid "Title"
+msgstr "Titel"
+
+#: views/block_options.php:350
+msgid "Link Style"
+msgstr "Koppeling Stijl"
+
+#: views/block_options.php:367
+msgid "Link Icon"
+msgstr "Koppeling Icoon"
+
+#: views/block_options.php:382
+msgid "Icon Color"
+msgstr "Ikoon kleur"
+
+#: views/block_options.php:395
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: views/block_options.php:398
+msgid "False"
+msgstr "Onwaar"
+
+#: views/block_options.php:398
+msgid "True"
+msgstr "Waar"
+
+#: views/block_options.php:409
+msgid "Remove"
+msgstr "Verwijder"
+
+#: views/settings.php:25
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen"
+
+#: views/settings.php:33
+msgid "WP Boxer Pro Settings"
+msgstr "WP Boxer Pro Instellingen"
+
+#: views/settings.php:200
+msgid "Plugin Management"
+msgstr "Plugin Beheer"
+
+#: views/settings.php:206
+msgid "Upgrade From Older Version"
+msgstr "Upgrade Oude Versie"
+
+#: views/settings.php:208
+msgid "Upgrade"
+msgstr "Bijwerken"
+
+#: views/settings.php:210
+msgid ""
+"Upgrade boxes from the free version of Boxer to the Pro version. Remember, "
+"this action cannot be undone!"
+msgstr ""
+"Upgrade content blocks naar een nieuwere versie. Onthoud, deze actie kan "
+"niet ongedaan gemaakt worden!"
+
+#~ msgid ""
+#~ "Specify a destination for the image link. When prepended with a \">\" "
+#~ "sign, a lightbox will be used"
+#~ msgstr ""
+#~ "Selecteer een doel locatie voor de afbeeldingslink. Indien vooraf gegaan "
+#~ "door een \">\", zal een lightbox gebruikt worden"
+
+#~ msgid ""
+#~ "Specify a destination for the block heading. When prepended with a \">\" "
+#~ "sign, a lightbox will be used"
+#~ msgstr ""
+#~ "Selecteer een doel locatie voor de block header. Indien vooraf gegaan "
+#~ "door een \">\", zal een lightbox gebruikt worden"
+
+#~ msgid "Box Sets"
+#~ msgstr "Box Sets"
+
+#~ msgid "Boxes"
+#~ msgstr "Boxen"
+
+#~ msgid "Templates"
+#~ msgstr "Sjablonen"
+
+#~ msgid ""
+#~ "Specify a destination for the box link. You can also use the value of any "
+#~ "custom field by using the <strong>[[meta_key]]</strong> notation. When "
+#~ "left empty, no link will be displayed."
+#~ msgstr ""
+#~ "Geef de locatie op waar de box naar moet verwijzen. Je kunt ook de waarde "
+#~ "van vrije velden gebruiken met behulp van de [[meta_key]] notatie. "
+#~ "Wanneer geen locatie wordt opgegeven, zal de standaard snelkoppeling "
+#~ "gebruikt worden"
+
+#~ msgid "Choose an icon..."
+#~ msgstr "Kies een icoon..."
+
+#~ msgid "Templates created/updated/repaired successfully"
+#~ msgstr "Sjablonen gecreëerd/bijgewerkt/hersteld met succes"
+
+#~ msgid "Box Set"
+#~ msgstr "Box Set"
+
+#~ msgid "Buy Me A Beer ?"
+#~ msgstr "Biertje?"
+
+#~ msgid "Import Default Templates"
+#~ msgstr "Importeer de standaard sjablonen"
+
+#~ msgid ""
+#~ "Import or update the default templates after first activation or updating "
+#~ "of the plugin"
+#~ msgstr ""
+#~ "Importeer of update de standaard sjablonen na eerste activatie of na "
+#~ "updaten van de plugin"
+
+#~ msgid "Reload Plugin Settings"
+#~ msgstr "Herlaad Plugin Instellingen"
+
+#~ msgid "Reload"
+#~ msgstr "Herladen"
+
+#~ msgid "Reload the plugin settings. Resets all values to their defaults"
+#~ msgstr "Herlaad alle instellingen. Zet ale waarden terug naar hun standaard"
+
+#~ msgid ""
+#~ "WP Boxer Pro disables the automatic inserting of < p > and < / p > tags "
+#~ "by Wordpress for you to separate content breaks. If, for some reason, you "
+#~ "want or need to enable these, activate this option"
+#~ msgstr ""
+#~ "WP Boxer Pro schakelt automatisch paragrafen in Wordpress standaard uit. "
+#~ "Als je, om welke reden dan ook, dit wilt inschakelen, activeer je deze "
+#~ "optie"
+
+#~ msgid ""
+#~ "Select a Box Type for this box. Each Box Type corresponds with a Template"
+#~ msgstr ""
+#~ "Selecteer een Box Type voor deze box. Type komt overeen met een sjabloon"

@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Boxer Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-29 09:56+0100\n"
+"PO-Revision-Date: 2012-02-29 09:56+0100\n"
+"Last-Translator: M. Boomaars <info@codingourweb.com>\n"
+"Language-Team: CodingOurWeb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wpboxerpro.php:75
+msgid "Enable Automatic Paragraphs"
+msgstr ""
+
+#: wpboxerpro.php:81
+msgid "Do not index individual box posts"
+msgstr ""
+
+#: wpboxerpro.php:87
+msgid "Enable Twitter Bootstrap"
+msgstr ""
+
+#: wpboxerpro.php:93
+msgid "Disable TimThumb Globally"
+msgstr ""
+
+#: wpboxerpro.php:99
+msgid "Show Tooltips in Box Options meta box"
+msgstr ""
+
+#: wpboxerpro.php:105
+msgid "Excerpt Length"
+msgstr ""
+
+#: wpboxerpro.php:139
+msgid "Box Sets"
+msgstr ""
+
+#: wpboxerpro.php:146
+msgid "Boxes"
+msgstr ""
+
+#: wpboxerpro.php:147
+msgid "Templates"
+msgstr ""
+
+#: wpboxerpro.php:218
+msgid "Box Type"
+msgstr ""
+
+#: wpboxerpro.php:224
+msgid "Box Index"
+msgstr ""
+
+#: wpboxerpro.php:225
+msgid "Specify the box index. Indexes are really important as they determine the order in which boxes are displayed."
+msgstr ""
+
+#: wpboxerpro.php:235
+msgid "Box Width"
+msgstr ""
+
+#: wpboxerpro.php:236
+msgid "Select a box width. Always make sure the last box in each row ends with <strong>_last</strong> to avoid rendering issues!"
+msgstr ""
+
+#: wpboxerpro.php:247
+msgid "Box Height"
+msgstr ""
+
+#: wpboxerpro.php:248
+msgid "Specify the box height. Leave empty if you want it to be dynamic."
+msgstr ""
+
+#: wpboxerpro.php:257
+msgid "Background Color"
+msgstr ""
+
+#: wpboxerpro.php:265
+msgid "Box CSS"
+msgstr ""
+
+#: wpboxerpro.php:266
+msgid "Specify extra CSS classes you would like applied to the box. You can select multiple classes, but some may overrule others"
+msgstr ""
+
+#: wpboxerpro.php:268
+#: wpboxerpro.php:329
+#: wpboxerpro.php:392
+#: wpboxerpro.php:527
+msgid "Choose one or more CSS classes..."
+msgstr ""
+
+#: wpboxerpro.php:281
+msgid "Image Height"
+msgstr ""
+
+#: wpboxerpro.php:282
+msgid "Specify the height of the image. When a height has been specified, Timthumb will be used for resizing purposes, unless the <strong>Use TimThumb</strong> option has been deselected"
+msgstr ""
+
+#: wpboxerpro.php:291
+msgid "Image Width"
+msgstr ""
+
+#: wpboxerpro.php:292
+msgid "Specify the width of the image. When a width has been specified, Timthumb will be used for resizing purposes, unless the <strong>Use TimThumb</strong> option has been deselected"
+msgstr ""
+
+#: wpboxerpro.php:301
+#: wpboxerpro.php:372
+#: wpboxerpro.php:472
+msgid "Link"
+msgstr ""
+
+#: wpboxerpro.php:302
+msgid "Specify a destination for the image link. You can also use the value of any custom field by using the [[meta_key]] notation. When left empty, the default link will be used"
+msgstr ""
+
+#: wpboxerpro.php:310
+msgid "Use TimThumb"
+msgstr ""
+
+#: wpboxerpro.php:311
+msgid "Specify whether you would like to resize the images using TimThumb."
+msgstr ""
+
+#: wpboxerpro.php:317
+msgid "TimThumb Cropping Location"
+msgstr ""
+
+#: wpboxerpro.php:318
+msgid "Select the TimThumb cropping location"
+msgstr ""
+
+#: wpboxerpro.php:326
+msgid "Image CSS"
+msgstr ""
+
+#: wpboxerpro.php:327
+msgid "Specify extra CSS classes you would like applied to the box image. You can select multiple classes, but some may overrule others"
+msgstr ""
+
+#: wpboxerpro.php:341
+#: wpboxerpro.php:418
+msgid "Font Family"
+msgstr ""
+
+#: wpboxerpro.php:349
+#: wpboxerpro.php:426
+msgid "Font Size"
+msgstr ""
+
+#: wpboxerpro.php:362
+#: wpboxerpro.php:452
+msgid "Color"
+msgstr ""
+
+#: wpboxerpro.php:373
+msgid "Specify a destination for the box heading. You can also use the value of any custom field by using the <strong>[[meta_key]]</strong> notation. When left empty, only the title will be displayed"
+msgstr ""
+
+#: wpboxerpro.php:379
+#: wpboxerpro.php:462
+msgid "Alignment"
+msgstr ""
+
+#: wpboxerpro.php:389
+msgid "Heading CSS"
+msgstr ""
+
+#: wpboxerpro.php:390
+msgid "Specify extra CSS classes you would like applied to the box heading. You can select multiple classes, but some may overrule others"
+msgstr ""
+
+#: wpboxerpro.php:405
+msgid "Column Count"
+msgstr ""
+
+#: wpboxerpro.php:439
+msgid "Line Height"
+msgstr ""
+
+#: wpboxerpro.php:473
+msgid "Specify a destination for the box link. You can also use the value of any custom field by using the <strong>[[meta_key]]</strong> notation. When left empty, no link will be displayed."
+msgstr ""
+
+#: wpboxerpro.php:479
+msgid "Link Text"
+msgstr ""
+
+#: wpboxerpro.php:487
+msgid "Link Style"
+msgstr ""
+
+#: wpboxerpro.php:498
+msgid "Choose one or more styles..."
+msgstr ""
+
+#: wpboxerpro.php:503
+msgid "Link Icon"
+msgstr ""
+
+#: wpboxerpro.php:512
+msgid "Choose an icon..."
+msgstr ""
+
+#: wpboxerpro.php:517
+msgid "Excerpt"
+msgstr ""
+
+#: wpboxerpro.php:518
+msgid "Specify whether you would like display only the excerpt in stead of the entire content. The excerpt length can be set <a href=\"options-general.php?page=wpboxerpro.php\">here</a>"
+msgstr ""
+
+#: wpboxerpro.php:524
+msgid "Content CSS"
+msgstr ""
+
+#: wpboxerpro.php:525
+msgid "Specify extra CSS classes you would like applied to the box content. You can select multiple classes, but some may overrule others"
+msgstr ""
+
+#: wpboxerpro.php:575
+#: wpboxerpro.php:581
+msgid "Box Options"
+msgstr ""
+
+#: wpboxerpro.php:763
+msgid "No old boxes were found during the upgrade process."
+msgstr ""
+
+#: wpboxerpro.php:789
+#, php-format
+msgid "Box ID%d: upgraded OK.<br>"
+msgstr ""
+
+#: wpboxerpro.php:792
+msgid "Something went wrong during the upgrade!"
+msgstr ""
+
+#: wpboxerpro.php:1055
+msgid "Templates created/updated/repaired successfully"
+msgstr ""
+
+#: wpboxerpro.php:1242
+msgid "Duplicate this box"
+msgstr ""
+
+#: wpboxerpro.php:1242
+msgid "Duplicate"
+msgstr ""
+
+#: wpboxerpro.php:1256
+#: wpboxerpro.php:1293
+msgid "Type"
+msgstr ""
+
+#: wpboxerpro.php:1257
+#: wpboxerpro.php:1294
+msgid "Index"
+msgstr ""
+
+#: wpboxerpro.php:1290
+#: wpboxerpro.php:1344
+msgid "ID"
+msgstr ""
+
+#: wpboxerpro.php:1291
+msgid "Box Set"
+msgstr ""
+
+#: wpboxerpro.php:1292
+msgid "Width"
+msgstr ""
+
+#: wpboxerpro.php:1295
+#: wpboxerpro.php:1345
+msgid "Thumbnail"
+msgstr ""
+
+#: wpboxerpro.php:1477
+msgid "<p class=\"error\">Please specify a box set</p>"
+msgstr ""
+
+#: wpboxerpro.php:1679
+msgid "Read More"
+msgstr ""
+
+#: wpboxerpro.php:1753
+msgid "<div class=\"navigation error\">If you want to paginate the results, the <code>count</code> parameter is required.</div>"
+msgstr ""
+
+#: wpboxerpro.php:1759
+msgid "<div class=\"navigation\">Download and activate <a href=\"http://wordpress.org/extend/plugins/wp-pagenavi/\">wp-pagenavi</a> to enable pagination.</div>"
+msgstr ""
+
+#: wpboxerpro.php:1764
+#, php-format
+msgid "<p class=\"error\">Please specify at least one box item for box set <strong>%s</strong> or adjust your selection parameters.</p>"
+msgstr ""
+
+#: framework/cow_plugin_framework.php:200
+msgid "Nothing found"
+msgstr ""
+
+#: framework/cow_plugin_framework.php:201
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: framework/functions.php:26
+msgid "Sorry, this box couldn't be duplicated because it could not be found in the database, check for this ID: "
+msgstr ""
+
+#: views/box_options.php:34
+msgid "Choose a Mask:"
+msgstr ""
+
+#: views/box_options.php:38
+msgid "Apply"
+msgstr ""
+
+#: views/box_options.php:40
+msgid "Apply the selected box mask to the current box"
+msgstr ""
+
+#: views/box_options.php:46
+msgid "Mask name:"
+msgstr ""
+
+#: views/box_options.php:50
+msgid "Save"
+msgstr ""
+
+#: views/box_options.php:52
+msgid "Store the box options of the current box into a box mask"
+msgstr ""
+
+#: views/donate.php:2
+msgid "Buy Me A Beer ?"
+msgstr ""
+
+#: views/settings.php:25
+msgid "Settings saved."
+msgstr ""
+
+#: views/settings.php:33
+msgid "WP Boxer Pro Settings"
+msgstr ""
+
+#: views/settings.php:38
+msgid "Plugin Management"
+msgstr ""
+
+#: views/settings.php:44
+msgid "Import Default Templates"
+msgstr ""
+
+#: views/settings.php:46
+msgid "Import"
+msgstr ""
+
+#: views/settings.php:48
+msgid "Import or update the default templates after first activation or updating of the plugin"
+msgstr ""
+
+#: views/settings.php:53
+msgid "Upgrade From Older Version"
+msgstr ""
+
+#: views/settings.php:55
+msgid "Upgrade"
+msgstr ""
+
+#: views/settings.php:57
+msgid "Upgrade boxes from the free version of Boxer to the Pro version. Remember, this action cannot be undone!"
+msgstr ""
+
+#: views/settings.php:62
+msgid "Reload Plugin Settings"
+msgstr ""
+
+#: views/settings.php:64
+msgid "Reload"
+msgstr ""
+
+#: views/settings.php:66
+msgid "Reload the plugin settings. Resets all values to their defaults"
+msgstr ""
+

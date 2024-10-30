@@ -1,0 +1,37 @@
+.content_block_wrapper .cow_one_half, 
+.content_block_wrapper .cow_one_third, 
+.content_block_wrapper .cow_two_third, 
+.content_block_wrapper .cow_three_fourth, 
+.content_block_wrapper .cow_one_fourth, 
+.content_block_wrapper .cow_one_fifth, 
+.content_block_wrapper .cow_two_fifth, 
+.content_block_wrapper .cow_three_fifth, 
+.content_block_wrapper .cow_four_fifth, 
+.content_block_wrapper .cow_one_sixth, 
+.content_block_wrapper .cow_five_sixth {
+    position: relative;
+    margin-right: 4%;
+    float: left;
+    min-height: 1px;
+    height: auto !important;
+    height: 1px;
+    zoom : 1;
+}
+
+.content_block_wrapper {
+    overflow : hidden; _height : 1%;
+}
+
+.block_image {
+    text-align: center;
+    }
+    .block_image img {
+        display: inline;
+        }
+
+.clearboth { 
+    display:block;
+    zoom : 1;
+    margin: 0;
+    padding: 0;
+    }
